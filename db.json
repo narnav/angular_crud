@@ -1,0 +1,14 @@
+{
+  "prods": [
+    {
+      "desc": "cheese",
+      "price": 17,
+      "id": 6
+    },
+    {
+      "desc": "cho",
+      "price": 22,
+      "id": 7
+    }
+  ]
+}
